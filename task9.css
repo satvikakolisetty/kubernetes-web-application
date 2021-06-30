@@ -1,0 +1,52 @@
+
+body{
+background-image:url("kube.jpeg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+
+#d2{
+margin-left: 40%;
+margin-top: 10%;
+width: 200;
+height: 10;
+}
+#i1{
+    width: 100%;
+  padding: 20px 30px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #d1d1d1;
+  border-radius: 20px;
+  
+  box-sizing: content-box;
+  box-shadow:0 4px 8px 0 black, 0 4px 8px 0 black;
+}
+
+#b1{
+    width: 100%;
+    background-color: #9e7ac0;
+    color: white;
+    padding: 10px 20px;
+    margin: 12px 0;
+    margin-left: 12%;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow:0 4px 8px 0 black, 0 4px 8px 0 black;
+}
+
+#d1{
+
+        background-color: #d1d5ef;
+        background-repeat: no-repeat;
+        width: 700;
+        height:300; 
+        margin: 0 auto;
+        margin-top: 15%;
+        border: 5px solid rgb(255, 252, 252);
+        opacity: 0.6
+        
+}
